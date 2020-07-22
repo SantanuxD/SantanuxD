@@ -5,7 +5,7 @@
   I am a second year undergraduate pursuing🎓 **Electronics and Telecommunication Engineering** from **Kalinga Institute of Technology, Bhubaneswar.** I have always been passionate about technologies and it's vast field and that's what brings me to Engineering. My hobbies include painting🎨🖌️ and playing guitar🎸 apart from sleeping😴💤.
   
 ***
-<img src="https://user-images.githubusercontent.com/64271130/87261933-c7f4aa80-c4d5-11ea-8a13-51939973388e.jpg" width="150" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=SantanuxD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 ***
 
