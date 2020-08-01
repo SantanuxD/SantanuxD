@@ -1,4 +1,4 @@
-# Hey there ! this is Santanu 😎
+<h2> Hello, I'm Santanu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 ***
 ### About me :🤙🏼
