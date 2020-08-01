@@ -9,7 +9,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantanuxD&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
 </a>
 
-## 🎓 Currently learning 🎓
+## 🎓 Currently learning 
   I am currently learning front end web development 🌐 using HTML, CSS, Bootstrap and Javascript. Apart from that I also practise competitive coding🐱‍💻 <a       href="https://www.hackerrank.com/dashboard">@HackerRank</a>. I am also a Machine Learning enthusiast.💻 
 
 ## 📲 Connect with me on social media 
