@@ -5,7 +5,12 @@
   I am a second year undergraduate pursuing🎓 **Electronics and Telecommunication Engineering** from **Kalinga Institute of Technology, Bhubaneswar.** I have always been passionate about technologies and it's vast field and that's what brings me to Engineering. My hobbies include painting🎨🖌️ and playing guitar🎸 apart from sleeping😴💤.
   
 ***
-<img src="https://github-readme-stats.vercel.app/api?username=SantanuxD&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<a href="https://github.com/SantanuxD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
+</a>
+<a href="https://github.com/SantanuxD">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantanuxD&show_icons=true&theme=dark&line_height=27" alt="Pawan's github stats"/>
+</a>
 
 ***
 
