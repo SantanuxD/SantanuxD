@@ -27,4 +27,4 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
   Spects👓 make me look nerd, which I am not❎.
   
 <br/>
-<a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a>
+<p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
