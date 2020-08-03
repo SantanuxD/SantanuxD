@@ -5,11 +5,13 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
   I am currently learning front end web development 🌐 using HTML, CSS, Bootstrap and Javascript. Apart from that I also practise competitive coding🐱‍💻 <a       href="https://www.hackerrank.com/dashboard">@HackerRank</a>. I am also a Machine Learning enthusiast.💻 
 
 ## 📲 Connect with me on social media 
-<p align="center">
+<p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://github.com/SantanuxD"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="www.neil16biswas@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+<br/>
 ## 💻 Tools I work with
 <a href="https://github.com/SantanuxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
