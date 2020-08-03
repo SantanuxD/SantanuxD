@@ -12,7 +12,9 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 </p>
 <br/>
 <br/>
+
 ## 💻 Tools I work with
+
 <br/>
 <a href="https://github.com/SantanuxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
