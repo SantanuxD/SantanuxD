@@ -8,6 +8,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a target="_blank"href="https://github.com/SantanuxD"><img src="https://img.shields.io/badge/GitHub-black.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
+  <a target="_blank"href="https://www.instagram.com/_.santanubiswas._/"><img src="https://img.shields.io/badge/-INSTAGRAM-cc0099?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a href="https://twitter.com/Santanu97990818"><img src="https://img.shields.io/badge/-TWITTER-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
   <a href="mailto:neil16biswas@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   
