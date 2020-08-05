@@ -31,9 +31,9 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 <br/>
 <p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
 <p align="center">
-  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <a href="https://twitter.com/Santanu97990818"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
+  <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  <a target="_blank"href="https://www.instagram.com/_.santanubiswas._/"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 </p>
 
 
