@@ -27,10 +27,14 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 
 ## 😂 Fun fact
   Spects👓 make me look nerd, which I am not❎.
+
 <br/>
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+<p align="center">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</p>
 
 <br/>
 <p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
