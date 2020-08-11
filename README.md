@@ -22,7 +22,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
 </a>
 <a href="https://github.com/SantanuxD">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantanuxD&show_icons=true&theme=highcontrast" alt="Santanu's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantanuxD&show_icons=true&theme=highcontrast&color=blue" alt="Santanu's github stats"/>
 </a>
 
 ## 😂 Fun fact
