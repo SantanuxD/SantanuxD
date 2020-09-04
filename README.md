@@ -2,8 +2,11 @@
 I am a second year student at KIIT University, Bhubaneswar. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, watching webseries or strumming my ukulele.
 
 ## 🎓 Currently learning 
-  I am currently learning front end web development 🌐 using HTML, CSS, Bootstrap and Javascript. Apart from that I also practise competitive coding🐱‍💻 <a       href="https://www.hackerrank.com/dashboard">@HackerRank</a>. I am also a Machine Learning enthusiast.💻 
-
+  *JavaScript
+  *React
+  *Firebase
+  *Problem Solving based on DSA
+  
 ## 📲 Connect with me on social media 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
