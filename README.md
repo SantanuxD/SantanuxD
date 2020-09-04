@@ -2,10 +2,10 @@
 I am a second year student at KIIT University, Bhubaneswar. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, watching webseries or strumming my ukulele.
 
 ## 🎓 Currently learning 
-  *JavaScript
-  *React
-  *Firebase
-  *Problem Solving based on DSA
+  * JavaScript 💻
+  * React 🌀
+  * Firebase 🔥
+  * Problem Solving based on DSA 🐱‍💻
   
 ## 📲 Connect with me on social media 
 <p align="left">
