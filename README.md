@@ -38,7 +38,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
 </div>
 
-## <img src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
+## <img width="10" height="10" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
 <br/>
 <a href="https://github.com/SantanuxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
