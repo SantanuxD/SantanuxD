@@ -19,7 +19,9 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 </p>
 
 ## 💻 Tools I work with
+<img src="https://img.icons8.com/color/48/000000/python.png"/>
 
+## Github Status
 <br/>
 <a href="https://github.com/SantanuxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
