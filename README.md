@@ -30,6 +30,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/ios/50/000000/heroku.png"/>
@@ -37,7 +38,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
 </div>
 
-## Github Status
+## <img src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
 <br/>
 <a href="https://github.com/SantanuxD">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SantanuxD&theme=dark&hide_langs_below=1" />
