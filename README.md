@@ -19,15 +19,15 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 </p>
 
 ## 💻 Tools and languages I work with
-<div align items="left">
+<div align items="center">
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> <br/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/> <br/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/json--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
