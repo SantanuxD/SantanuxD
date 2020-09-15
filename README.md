@@ -4,7 +4,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 ## 🎓 Currently learning 
   * JavaScript 💻
   * React 🌀
-  * Firebase 🔥
+  * Firebase <img width="20" height="20" src="https://img.icons8.com/color/48/000000/firebase.png"/>
   * Problem Solving based on DSA 🐱‍💻
   
 ## 📲 Connect with me on social media 
