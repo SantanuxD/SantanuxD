@@ -19,8 +19,10 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 </p>
 
 ## 💻 Tools and languages I work with
+<div align items="left">
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+</div>
 
 ## Github Status
 <br/>
