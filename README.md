@@ -36,6 +36,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 <img src="https://img.icons8.com/ios/50/000000/heroku.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/github.png"/>
 <img src="https://img.icons8.com/ios-filled/50/000000/console.png"/>
+<img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
 </div>
 
 ## <img width="20" height="20" src="https://img.icons8.com/color/48/000000/github-2.png"/> Github Status
