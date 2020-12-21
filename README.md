@@ -54,7 +54,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SantanuxD&theme=onedark)](https://github.com/SantanuxD/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SantanuxD&theme=onedark&row=2&column=3)](https://github.com/SantanuxD/github-profile-trophy)
 
 <p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
 <p align="center">
