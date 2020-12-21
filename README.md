@@ -48,6 +48,8 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantanuxD&show_icons=true&theme=dark" alt="Santanu's github stats"/>
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=SantanuxD)](https://github.com/ryo-ma/github-profile-trophy)
+
 ## 😂 Fun fact
   Spects👓 make me look nerd, which I am not❎.
 
