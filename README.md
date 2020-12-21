@@ -59,7 +59,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 
 <p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://metrics.lecoq.io/SantanuxD"></a></p>
 
-<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?username=SantanuxD"></a></p>
+<p align="center"><a target="https://github.com/SantanuxD/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SantanuxD"></a></p>
 
 
 
