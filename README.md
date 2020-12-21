@@ -4,6 +4,8 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 ## 🎓 Currently learning 
   * MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height=16 width=16 src="https://img.icons8.com/windows/32/000000/node-js.png"/>
   
+  * App Development with React Native <img height=16 width=16 src="https://img.icons8.com/nolan/64/react-native.png"/>
+  
 ## 📲 Connect with me on social media 
 <p align="left">
   <a target="_blank"href="https://www.linkedin.com/in/santanu-biswas-1482591a7/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<br/>
