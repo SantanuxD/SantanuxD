@@ -58,6 +58,8 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 
 ![GitHub metrics](https://metrics.lecoq.io/SantanuxD)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=SantanuxD)
+
 <p align="center"><a target="blank"><img src="https://visitor-badge.laobi.icu/badge?page_id=SantanuxD"></a></p>
 <p align="center">
   <a href="https://twitter.com/Santanu97990818"><img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
