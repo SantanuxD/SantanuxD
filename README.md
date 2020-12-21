@@ -2,7 +2,7 @@
 I am a second year student at KIIT University, Bhubaneswar. I am a sophomore electronics undergrad improving skills with every passing day. I love to connect with new people and admire everyone having passion for coding. I am mostly found sitting in front of my laptop writing codes, watching webseries or strumming my ukulele.
 
 ## 🎓 Currently learning 
-  * MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height=16 width=16 src="https://img.icons8.com/windows/32/000000/node-js.png"/>
+  * MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img  height=16 width=16 src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   * App Development with React Native <img height=16 width=16 src="https://img.icons8.com/nolan/64/react-native.png"/>
   * Data Structures and Algorithms <img height=16 width=16 src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
   
