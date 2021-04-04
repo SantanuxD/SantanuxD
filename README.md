@@ -51,6 +51,8 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SantanuxD&show_icons=true&theme=dark" alt="Santanu's github stats"/>
 </a>
 
+![](https://activity-graph.herokuapp.com/graph?username=SantanuxD&theme=dracula)
+
 
 ## 😂 Fun fact
   Peanuts aren’t technically nuts
