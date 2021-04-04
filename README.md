@@ -3,7 +3,7 @@ I am a second year student at KIIT University, Bhubaneswar. I am a sophomore ele
 
 <br/>
 
-![](https://activity-graph.herokuapp.com/graph?username=SantanuxD&theme=dracula)
+
 
 ## 🎓 Currently learning 
   * MERN Stack Web Development <img height=16 width=16 src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height=16 width=16 src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"/> <img height=16 width=16 src="https://img.icons8.com/color/48/000000/react-native.png"/> <img  height=16 width=16 src="https://img.icons8.com/color/48/000000/nodejs.png"/>
